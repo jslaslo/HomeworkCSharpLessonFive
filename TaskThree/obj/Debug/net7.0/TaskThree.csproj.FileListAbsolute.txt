@@ -1,0 +1,14 @@
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\bin\Debug\net7.0\TaskThree.exe
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\bin\Debug\net7.0\TaskThree.deps.json
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\bin\Debug\net7.0\TaskThree.runtimeconfig.json
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\bin\Debug\net7.0\TaskThree.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\bin\Debug\net7.0\TaskThree.pdb
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\TaskThree.AssemblyInfoInputs.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\TaskThree.AssemblyInfo.cs
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\TaskThree.csproj.CoreCompileInputs.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\TaskThree.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\refint\TaskThree.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\TaskThree.pdb
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\TaskThree.genruntimeconfig.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskThree\obj\Debug\net7.0\ref\TaskThree.dll

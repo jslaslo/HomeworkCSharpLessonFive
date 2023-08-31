@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\GeekBrines\\CourseOnC#\\Seminar\\SeminarFive\\Homework\\TaskTwo\\TaskTwo.csproj": {}
+  },
+  "projects": {
+    "d:\\GeekBrines\\CourseOnC#\\Seminar\\SeminarFive\\Homework\\TaskTwo\\TaskTwo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\GeekBrines\\CourseOnC#\\Seminar\\SeminarFive\\Homework\\TaskTwo\\TaskTwo.csproj",
+        "projectName": "TaskTwo",
+        "projectPath": "d:\\GeekBrines\\CourseOnC#\\Seminar\\SeminarFive\\Homework\\TaskTwo\\TaskTwo.csproj",
+        "packagesPath": "C:\\dergo\\dergo\\.nuget\\packages\\",
+        "outputPath": "d:\\GeekBrines\\CourseOnC#\\Seminar\\SeminarFive\\Homework\\TaskTwo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\dergo\\dergo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

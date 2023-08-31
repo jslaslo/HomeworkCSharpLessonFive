@@ -1,0 +1,14 @@
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\bin\Debug\net7.0\TaskOne.exe
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\bin\Debug\net7.0\TaskOne.deps.json
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\bin\Debug\net7.0\TaskOne.runtimeconfig.json
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\bin\Debug\net7.0\TaskOne.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\bin\Debug\net7.0\TaskOne.pdb
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\TaskOne.AssemblyInfoInputs.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\TaskOne.AssemblyInfo.cs
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\TaskOne.csproj.CoreCompileInputs.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\TaskOne.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\refint\TaskOne.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\TaskOne.pdb
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\TaskOne.genruntimeconfig.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskOne\obj\Debug\net7.0\ref\TaskOne.dll

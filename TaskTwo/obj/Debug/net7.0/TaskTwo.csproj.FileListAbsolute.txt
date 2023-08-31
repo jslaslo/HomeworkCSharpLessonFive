@@ -1,0 +1,14 @@
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\bin\Debug\net7.0\TaskTwo.exe
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\bin\Debug\net7.0\TaskTwo.deps.json
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\bin\Debug\net7.0\TaskTwo.runtimeconfig.json
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\bin\Debug\net7.0\TaskTwo.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\bin\Debug\net7.0\TaskTwo.pdb
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\TaskTwo.AssemblyInfoInputs.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\TaskTwo.AssemblyInfo.cs
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\TaskTwo.csproj.CoreCompileInputs.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\TaskTwo.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\refint\TaskTwo.dll
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\TaskTwo.pdb
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\TaskTwo.genruntimeconfig.cache
+D:\GeekBrines\CourseOnC#\Seminar\SeminarFive\Homework\TaskTwo\obj\Debug\net7.0\ref\TaskTwo.dll
